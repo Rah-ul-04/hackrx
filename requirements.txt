@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+tika
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+sentence-transformers
